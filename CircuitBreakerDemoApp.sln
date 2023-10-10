@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreakerDemoApp", "CircuitBreakerDemoApp\CircuitBreakerDemoApp.csproj", "{D96C6175-DF01-4319-8D89-1B7E5B364E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheckCircuitBreaker", "HealthCheckCircuitBreaker\HealthCheckCircuitBreaker.csproj", "{1E602BDC-67F0-4D63-8E0E-062F2EE243E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96C6175-DF01-4319-8D89-1B7E5B364E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96C6175-DF01-4319-8D89-1B7E5B364E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96C6175-DF01-4319-8D89-1B7E5B364E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96C6175-DF01-4319-8D89-1B7E5B364E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E602BDC-67F0-4D63-8E0E-062F2EE243E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E602BDC-67F0-4D63-8E0E-062F2EE243E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E602BDC-67F0-4D63-8E0E-062F2EE243E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E602BDC-67F0-4D63-8E0E-062F2EE243E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
